@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582722018 source:d:\documents\codeblocks_project\cpp\lq10_ca_数列求值\main.cpp
+	<iostream>
+	<cmath>
+

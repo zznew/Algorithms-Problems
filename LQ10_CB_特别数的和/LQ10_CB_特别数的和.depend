@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582796279 source:d:\documents\codeblocks_project\cpp\lq10_cb_特别数的和\main.cpp
+	<bits/stdc++.h>
+	<algorithm>
+
